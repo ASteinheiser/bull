@@ -16,5 +16,5 @@ npm-debug.log
 /.nyc_output
 
 # dist
-/dist
+# /dist
 cc-test-reporter
